@@ -42,4 +42,22 @@ console.log(num); //if any number divided by 0 than the result is infinity
 const negNum = -50 / 0;
 console.log(negNum); //if any (-)number divided by 0 than the result is -infinity
 
+//modulus operation
+
+var num1 = 5;
+var num2 = 2;
+var result = num1 % num2; //modulus operation
+console.log(result);
+
+//shorthand formula
+
+var fridge = 35000;
+// fridge = fridge - 1000;
+fridge -= 1000; //shorthand formula
+
+console.log(fridge);
+
+var orange = 30;
+orange *= 3;
+console.log(orange);
 

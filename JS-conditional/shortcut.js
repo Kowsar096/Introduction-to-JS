@@ -27,3 +27,6 @@ else{
     console.log('Sit Down');
 
 }
+
+// conditional task : https://github.com/ProgrammingHero1/JS-conditionals-tasks
+

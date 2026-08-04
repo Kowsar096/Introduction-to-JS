@@ -7,8 +7,9 @@ console.log("This line will always execute.");
 
 // ----------------WHILE LOOP----------------
 
-const num = 0;
+let num = 0;
 while (num < 5){
     console.log('Loop iteration:', num);
     num = num + 1;
 }
+

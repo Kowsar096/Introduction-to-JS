@@ -1,3 +1,6 @@
+// primitive
+// basic, primary data type
+
 const age = 26;
 const school = 'Rajuk Uttara';
 const isPassed = true;
@@ -5,13 +8,13 @@ const isPassed = true;
 const subject = ['Bangla', 'English', 'Math', 'Physics']
 
 console.log(isDeveloper);
-
+//not primitive 
 //object
 
 const bottle = {
     brand: 'Pran',
     price: 45,
-    color: 'whilte',
+    color: 'white',
     isClean: false,
     distributor: {
         salam: '5pics',

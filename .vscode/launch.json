@@ -13,5 +13,19 @@
         "<node_internals>/**"
       ]
     }
+    ,
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Debug Current JavaScript File (legacy)",
+      "program": "${file}",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "runtimeExecutable": "node",
+      "skipFiles": [
+        "<node_internals>/**"
+      ]
+    }
   ]
 }

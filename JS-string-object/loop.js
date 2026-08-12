@@ -7,7 +7,7 @@ const mobile = {
 }
 
 // for of : array
-// for in : onject
+// for in : object
 
 for(const prop in mobile){
     console.log(prop);

@@ -22,3 +22,6 @@ const occupation = person['profession'];
 console.log(occupation);
 
 console.log(person["fav place"]);
+
+const keyName = 'profession' ;
+console.log(person[keyName]);
